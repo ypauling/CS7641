@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/pauling/anaconda/envs/CS7641/bin/python",
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true
+}
